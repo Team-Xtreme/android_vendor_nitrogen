@@ -67,6 +67,22 @@ PRODUCT_PACKAGES += \
     Stk \
     Terminal
 
+#CustomThemes
+PRODUCT_PACKAGES += \
+    AuroraTheme \
+    DarkSpringGreenTheme \
+    FuschiaTheme \
+    GenesisTheme \
+    GreenGrassTheme \
+    KingPurpleTheme \
+    MagentaTheme \
+    MandarineTheme \
+    PaleBlueTheme \
+    SexyRedTheme \
+    SkyTheme \
+    SpotifyTheme \
+    WatermelonTheme \
+
 # Init.d script support
 PRODUCT_COPY_FILES += \
     vendor/nitrogen/prebuilt/common/bin/sysinit:system/bin/sysinit \

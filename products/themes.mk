@@ -2,32 +2,32 @@
 -include vendor/nitrogen/themes/Android.mk
 
 # Deep Purple
-PRODUCT_PACKAGES += \
-    DeepPurpleTheme
+#PRODUCT_PACKAGES += \
+#   DeepPurpleTheme
 
 # Indigo
 PRODUCT_PACKAGES += \
-    IndigoTheme
+   IndigoTheme
 
 # Pink
 PRODUCT_PACKAGES += \
-    PinkTheme
+   PinkTheme
 
 # Pixel
 PRODUCT_PACKAGES += \
-    PixelTheme
+   PixelTheme
 
 # Purple
-PRODUCT_PACKAGES += \
-    PurpleTheme
+#PRODUCT_PACKAGES += \
+#   PurpleTheme
 
 # Red
-PRODUCT_PACKAGES += \
-    RedTheme
+#PRODUCT_PACKAGES += \
+#    RedTheme
 
 # Sky Blue
-PRODUCT_PACKAGES += \
-    SkyBlueTheme
+#PRODUCT_PACKAGES += \
+#   SkyBlueTheme
 
 # Yellow
 PRODUCT_PACKAGES += \
